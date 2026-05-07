@@ -76,3 +76,7 @@ Follow these steps to run a local test in your environment.
     The receiver will begin reconstructing the string character-by-character. Note that because each character takes ~10 seconds to transmit, this is a slow-drip method implemented for substantial stealth.
 
 ---
+
+<p align="center">
+  With ❤️ by <b>Aradhya</b>
+</p>
