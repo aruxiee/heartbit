@@ -2,7 +2,7 @@
 
 # ❤️‍🔥 heartbit: Temporal Jitter Steganography
 
-My own novel PoC steganography tool written in Rust. Unlike traditional steganography that hides data within the *static* bits of a file (like an image or audio), `heartbit` hides data within time frames. It uses millisecond-level latency between network pulses to exfiltrate information without ever placing the secret text into a packet payload.
+PoC for a steganography concept written in Rust. Unlike traditional steganography that hides data within the *static* bits of a file (like an image or audio), `heartbit` hides data within time frames. It uses millisecond-level latency between network pulses to exfiltrate information without ever placing the secret text into a packet payload.
 
 ⚠️ **Please Note:** This project is strictly for **Educational and Authorized Penetration Testing**. I am not responsible for any of the shenanigans you guys pull.
 
